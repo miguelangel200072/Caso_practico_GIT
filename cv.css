@@ -1,0 +1,8 @@
+*{outline: 1px solid red;}
+body {
+    font-family: var(--font);
+}
+header, section {
+    width: 800px;
+    margin: 0 auto;
+}
